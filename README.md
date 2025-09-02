@@ -10,13 +10,17 @@ A sophisticated AI-powered research assistant that uses multiple specialized age
 ![Groq](https://img.shields.io/badge/Groq-LLM-orange)  
 ![OpenAI](https://img.shields.io/badge/OpenAI-GPT--4-black?logo=openai)  
 
-## 📸 Screenshots | Feature | Screenshot |
-|---------|------------------|------------|
-| Home Page | Main landing page of the application | ![Home Page](screenshots/home_page.png) |
-| Research Query | Page to enter and submit research queries | ![Research Query](screenshots/Reasearch_query.png) |
-| Agent Analyzing | Page showing the agent analyzing the query | ![Agent Analyzing](screenshots/agent_analyzing.png) |
-| Research Results | Page displaying research results | ![Research Results](screenshots/reasearch_results.png) |
-| Summary | Page showing the summary of research | ![Summary](screenshots/summary.png) |
+## Screenshots
+
+### 1. Home Page ![Home Page](screenshots/home_page.png)
+
+### 2. Research Query ![Research Query](screenshots/Reasearch_query.png) 
+
+### 3. Agent Analyzing ![Agent Analyzing](screenshots/agent_analyzing.png)
+
+### 4. Research Results ![Research Results](screenshots/reasearch_results.png) 
+
+### 5. Summary ![Summary](screenshots/summary.png)
 
 ## 🎯 Problem Statement
 
