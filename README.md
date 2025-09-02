@@ -12,9 +12,6 @@ A sophisticated AI-powered research assistant that uses multiple specialized age
 
 ## Screenshots
 
-<details>
-<summary>Click to view Screenshots</summary>
-
 ### 1. Home Page
 ![Home Page](screenshots/home_page.png)
 
