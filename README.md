@@ -2,6 +2,8 @@
 
 A sophisticated AI-powered research assistant that uses multiple specialized agents to conduct comprehensive research and analysis on any topic. This project demonstrates the power of multi-agent systems in solving complex real-world problems.
 
+🚀 **Live Demo:** [Click here to open the app on Streamlit Cloud](https://share.streamlit.io/your-username/your-repo/main/app.py)
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=25&duration=4000&color=2F81F7&center=true&vCenter=true&width=900&lines=🔬+AI+Research+Assistant;🤖+Multi-Agent+System;⚡+Powered+by+LangChain+%26+Streamlit)](https://git.io/typing-svg)  
 
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue?logo=python)  
