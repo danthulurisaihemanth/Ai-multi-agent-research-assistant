@@ -6,10 +6,11 @@ numpy==1.25.2
 plotly==5.17.0
 requests==2.31.0
 beautifulsoup4==4.12.2
+setuptools>=65.0.0
+wheel
 
 # LangChain ecosystem
 langchain==0.0.350
-langchain-core>=0.1.8,<0.2
 langchain-community==0.0.10
 langchain-openai==0.0.2
 
