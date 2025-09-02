@@ -1,20 +1,17 @@
 # Core framework
 streamlit==1.28.1
 python-dotenv==1.0.0
-pandas==2.0.3       # compatible with Python 3.11
-numpy==1.25.2
+pandas==2.0.3
 plotly==5.17.0
 requests==2.31.0
 beautifulsoup4==4.12.2
-setuptools>=65.0.0
-wheel
 
-# LangChain ecosystem (compatible versions)
-langchain==0.0.350
-# langchain-core==0.1.0   <-- remove this line
-langchain-community==0.0.10
-langchain-openai==0.0.2
-# langchain-groq==0.0.3   <-- keep commented if causing errors
+# LangChain ecosystem (compatible with Groq 0.3.7)
+langchain>=0.0.400   # latest stable version
+langchain-core>=0.3,<0.4
+langchain-community>=0.0.15   # adjust if needed
+langchain-openai>=0.0.5       # adjust if needed
+langchain-groq>=0.3,<0.4
 
 # Other utilities
 typing-extensions>=4.5.0
