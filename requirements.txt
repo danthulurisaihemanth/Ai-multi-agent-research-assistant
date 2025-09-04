@@ -1,3 +1,8 @@
+# Upgrade build tools first (prevents metadata build errors)
+pip>=24.0
+setuptools>=70.0
+wheel
+
 # Core framework
 streamlit==1.28.1
 python-dotenv==1.0.0
@@ -7,10 +12,10 @@ requests==2.31.0
 beautifulsoup4==4.12.2
 
 # LangChain ecosystem (compatible with Groq 0.3.7)
-langchain>=0.0.400   # latest stable version
+langchain>=0.0.400
 langchain-core>=0.3,<0.4
-langchain-community>=0.0.15   # adjust if needed
-langchain-openai>=0.0.5       # adjust if needed
+langchain-community>=0.0.15
+langchain-openai>=0.0.5
 langchain-groq>=0.3,<0.4
 
 # Other utilities
